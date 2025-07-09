@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+gspread
+oauth2client
+beautifulsoup4
+requests
+playwright
